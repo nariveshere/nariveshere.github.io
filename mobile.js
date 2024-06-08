@@ -40,6 +40,9 @@ window.addEventListener('contextmenu', function (e) {
 e.preventDefault();
 });
 
+
+/* 
+
 // 이미지 슬라이드
 let imgIndex = 0;
 let position = 0;
@@ -104,5 +107,6 @@ document.addEventListener("DOMContentLoaded", function () {
   window.addEventListener('scroll', handleScroll);
 });
 
+*/
 
 init();

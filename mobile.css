@@ -142,7 +142,7 @@ b:hover {
 #intro h2 {
   color: #c092e6;
   position: absolute;
-  top: 54%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: 'Palanquin Dark', sans-serif;
